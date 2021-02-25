@@ -32,7 +32,7 @@
 
 
 body {
-    background-color: var(--backgrounds);
+    background-color: var(--background);
     color: var(--text);
 }
 
